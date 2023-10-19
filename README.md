@@ -12,8 +12,8 @@ And ...
 import { boximageshadows } from "boximageshadows";
 
 boximageshadows({
-  shadow_type: "soft";
-  padding: false;
+  shadow_type: "soft",
+  padding: false
 })
 ```
 
