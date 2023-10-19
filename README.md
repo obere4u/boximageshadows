@@ -4,14 +4,14 @@ Get perfect shadows every time for your image especially for non-designers
 
 ## Installation
 
-`npm i imageshadow --save`
+`npm i boxboximageshadowss --save`
 
 And ...
 
 ```
-import { imageshadow } from "imageshadow";
+import { boximageshadows } from "boximageshadows";
 
-imageshadow({
+boximageshadows({
   shadow_type: "soft";
   padding: false;
 })
@@ -19,7 +19,7 @@ imageshadow({
 
 ## Options
 
-Imageshadow supports 2 options, both of which are optional:
+boximageshadows supports 2 options, both of which are optional:
 
 * *shadow_type* - _hard | soft_ (Defaults to soft)
 * *padding* - _boolean_ (Default to false)

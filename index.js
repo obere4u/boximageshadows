@@ -1,5 +1,5 @@
-function imageshadow(option) {
-  let images = document.querySelectorAll(".imageshadow")
+function boximageshadows(option) {
+  let images = document.querySelectorAll(".boximageshadows")
 
   if (option.shadow_type === "hard") {
     option.shadow_type = '0px';
@@ -16,4 +16,4 @@ function imageshadow(option) {
   })
 }
 
-module.export.imageshadow = imageshadow;
+module.exports.boximageshadows = boximageshadows;
