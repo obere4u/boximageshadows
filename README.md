@@ -4,7 +4,7 @@ Get perfect shadows every time for your image especially for non-designers
 
 ## Installation
 
-`npm i boximageshadowss --save`
+`npm i boximageshadows --save`
 
 And ...
 
